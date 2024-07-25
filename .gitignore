@@ -1,1 +1,2 @@
-secret.txt
+secret*.txt
+./test/secret2.txt
